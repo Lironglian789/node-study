@@ -1,0 +1,7 @@
+POST http://localhost:4000/post
+Content-Type: application/json
+
+{
+  "foo": 1
+}
+

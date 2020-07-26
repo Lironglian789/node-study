@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "download-git-repo": "^3.0.2",
+    "express": "^4.17.1",
+    "koa": "^2.13.0",
+    "koa-redis": "^4.0.1",
     "ora": "^4.0.5"
   }
 }
