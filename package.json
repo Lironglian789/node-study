@@ -9,6 +9,7 @@
   "author": "lirl",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "download-git-repo": "^3.0.2",
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.5",
@@ -17,6 +18,9 @@
     "koa-redis": "^4.0.1",
     "koa-router": "^9.1.0",
     "koa-static": "^5.0.0",
-    "ora": "^4.0.5"
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "ora": "^4.0.5",
+    "sequelize": "^6.3.3"
   }
 }
