@@ -5498,6 +5498,13 @@ egg-static@^2.2.0:
     mkdirp "^0.5.1"
     ylru "^1.2.1"
 
+egg-swagger-doc-feat@^2.2.14:
+  version "2.2.14"
+  resolved "https://registry.npm.taobao.org/egg-swagger-doc-feat/download/egg-swagger-doc-feat-2.2.14.tgz#4989ef18c27ad8636fb4ba0be76b5dfb89b213da"
+  integrity sha1-SYnvGMJ62GNvtLoL52td+4myE9o=
+  dependencies:
+    koa-static-cache "^5.1.2"
+
 egg-ts-helper@^1.25.2:
   version "1.25.8"
   resolved "https://registry.npm.taobao.org/egg-ts-helper/download/egg-ts-helper-1.25.8.tgz#3bf13dcf26ada57a0b1f0c3118532ba4db807803"
